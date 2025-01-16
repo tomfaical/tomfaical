@@ -4,4 +4,3 @@
 - 💞️ I’m interested in game-dev, automation, Python, and AI tools
 - 📫 How to reach me:
   - via email: tomfaicalr@gmail.com
-  - via ig: @tom.faical
