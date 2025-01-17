@@ -1,6 +1,0 @@
-- 👋 Hi, I’m @tomfaical
-- 🌎 I’m from Sao Paulo, Brazil
-- 🌱 I’m currently in grad-school for Biomedical Engineering at FICSAE
-- 💞️ I’m interested in game-dev, automation, Python, and AI tools
-- 📫 How to reach me:
-  - via email: tomfaicalr@gmail.com
